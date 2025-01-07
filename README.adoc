@@ -40,6 +40,7 @@ In this case, the bundle will include the source maps, which can be used for deb
 == Copyright and License
 
 Antora default UI Copyright (C) 2017-present OpenDevise Inc. and the Antora Project.
+
 NetXMS Documentation UI (C) 2025-present Raden Solutions, SIA.
 
 Use of this software is granted under the terms of the https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0] (MPL-2.0).
